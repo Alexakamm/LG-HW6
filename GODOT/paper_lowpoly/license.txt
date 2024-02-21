@@ -1,0 +1,8 @@
+Model Information:
+* title:	Paper (LowPoly)
+* source:	https://sketchfab.com/3d-models/paper-lowpoly-19742c2f68024a0992322b744b9d0678
+* author:	Seb00927 (https://sketchfab.com/Seb00927)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

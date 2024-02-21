@@ -1,0 +1,15 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1708455263
+icon.svg::CompressedTexture2D::5865450748049341559::1708446516::1708446526::1::::<><>::
+node_3d.tscn::PackedScene::2800989099368076624::1708450356::0::1::::<><>::uid://bstjb4edtu4s8::::res://old_rustic_stand_free/scene.gltf<>uid://sn7oyyvn0230::::res://paper_lowpoly/scene.gltf
+::res://old_rustic_stand_free/::1708449289
+license.txt::TextFile::-1::1708447231::0::1::::<><>::
+scene.gltf::PackedScene::3689592814752511529::1708447231::1708449289::1::::<><>::uid://wi53t8bsybpr::::res://old_rustic_stand_free/textures/old_rustic_stand_Mat_baseColor.jpeg<>uid://bdm62pivk68no::::res://old_rustic_stand_free/textures/old_rustic_stand_Mat_metallicRoughness.png<>uid://cd2783fk5kgy6::::res://old_rustic_stand_free/textures/old_rustic_stand_Mat_normal.jpeg
+::res://old_rustic_stand_free/textures/::1708449289
+old_rustic_stand_Mat_baseColor.jpeg::CompressedTexture2D::1562542143074154579::1708447231::1708449287::1::::<><>::
+old_rustic_stand_Mat_metallicRoughness.png::CompressedTexture2D::2623690992044559876::1708447231::1708449287::1::::<><>::
+old_rustic_stand_Mat_normal.jpeg::CompressedTexture2D::5041149451499972887::1708447231::1708449288::1::::<><>::
+old_rustic_stand_Mat_specularf0.png::CompressedTexture2D::3685842514256355817::1708447231::1708449289::1::::<><>::
+::res://paper_lowpoly/::1708447126
+license.txt::TextFile::-1::1708447126::0::1::::<><>::
+scene.gltf::PackedScene::1292205339778795893::1708447126::1708447126::1::::<><>::
